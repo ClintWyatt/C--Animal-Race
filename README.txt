@@ -1,5 +1,5 @@
-The following instructions will show you how to run this program:
+The following instructions will show you how to compile and run this program:
 
-1. To run the python version, type "python Race.py" without the quotation marks using the linux ubantu command line. 
+1. To run compile, type "g++ -std=c++14 race.cpp" without the quotation marks using the linux ubantu command line. 
+2. To Run, type ./a.out
 
-2. To run the C++ version, type "g++ -std=c++14 race.cpp" without the quotation marks using the linux ubantu command line. 
